@@ -56,3 +56,5 @@
 > - Use the `process.env.REACT_APP_API_URL` in the frontend project to access the backend API URL.
 >
 > - After deploying the frontend project on Vercel, add the `REACT_APP_API_URL` environment variable in the Vercel project settings and set the value to the backend API URL on Render.
+
+Voilà! The MERN app is now deployed on Render and Vercel. To use the app, access the frontend URL provided by Vercel. (The backend API URL will be implicitly used by the frontend app.)
