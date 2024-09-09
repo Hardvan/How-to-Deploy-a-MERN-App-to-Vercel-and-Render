@@ -1,5 +1,24 @@
 # How to Deploy a MERN APP
 
+## MERN Project Structure Assumption
+
+The MERN project structure is assumed to be as follows:
+
+```plaintext
+backend/
+├── node_modules/
+├── server.js
+├── package.json
+└── ...
+frontend/
+├── node_modules/
+├── public/
+├── src/
+├── package.json
+└── ...
+...
+```
+
 ## Deploy Backend on Render
 
 1. Create a new `Web Service` on Render.
