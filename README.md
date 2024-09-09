@@ -2,8 +2,6 @@
 
 ## MERN Project Structure Assumption
 
-The MERN project structure is assumed to be as follows:
-
 ```plaintext
 backend/
 ├── node_modules/
