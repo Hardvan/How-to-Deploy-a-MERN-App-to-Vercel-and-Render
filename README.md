@@ -35,7 +35,7 @@ frontend/
    - **Start Command**: `node server.js`
      > Note: Replace `server.js` with the main file of the backend project.
 
-   <img src="./images/rs3.png" width="600" alt="Set the configurations" />
+   <img src="./images/rs3.png" width="800" alt="Set the configurations" />
 
 4. Click on `Deploy` to deploy the backend API.
 
@@ -58,7 +58,7 @@ frontend/
    - **Build Command**: `npm run build`
    - **Output Directory**: `build`
 
-   <img src="./images/vs3.png" width="600" alt="Set the configurations" />
+   <img src="./images/vs3.png" width="800" alt="Set the configurations" />
 
 4. Click on `Deploy` to deploy the frontend project.
 
