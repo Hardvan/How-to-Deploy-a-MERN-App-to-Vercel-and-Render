@@ -21,11 +21,11 @@ frontend/
 
 1. Create a new `Web Service` on Render.
 
-   <img src="./images/render_step1.png" width="100" alt="Create a new Web Service on Render" />
+   <img src="./images/render_step1.png" width="150" alt="Create a new Web Service on Render" />
 
 2. Choose the GitHub repository to deploy from.
 
-   <img src="./images/render_step2.png" width="500" alt="Choose the GitHub repository to deploy from" />
+   <img src="./images/render_step2.png" width="600" alt="Choose the GitHub repository to deploy from" />
 
 3. Set the following configurations:
 
@@ -35,7 +35,7 @@ frontend/
    - **Start Command**: `node server.js`
      > Note: Replace `server.js` with the main file of the backend project.
 
-   <img src="./images/render_step3.png" width="500" alt="Set the configurations" />
+   <img src="./images/render_step3.png" width="600" alt="Set the configurations" />
 
 4. Click on `Deploy` to deploy the backend API.
 
@@ -45,7 +45,7 @@ frontend/
 
 1. Click on the `New Project` button.
 
-   <img src="./images/vercel_step1.png" width="100" alt="Click on New Project" />
+   <img src="./images/vercel_step1.png" width="150" alt="Click on New Project" />
 
 2. Choose the GitHub repository to deploy from.
 
@@ -58,7 +58,7 @@ frontend/
    - **Build Command**: `npm run build`
    - **Output Directory**: `build`
 
-   <img src="./images/vercel_step3.png" width="500" alt="Set the configurations" />
+   <img src="./images/vercel_step3.png" width="600" alt="Set the configurations" />
 
 4. Click on `Deploy` to deploy the frontend project.
 
